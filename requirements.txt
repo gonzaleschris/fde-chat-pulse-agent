@@ -1,0 +1,10 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+agent_memory.json
+*.log
+.pytest_cache/
+.terraform/
+terraform.tfstate*
